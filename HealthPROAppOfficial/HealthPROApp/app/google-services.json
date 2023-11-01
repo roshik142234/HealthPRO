@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909219635114",
+    "project_id": "healthpro-app",
+    "storage_bucket": "healthpro-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909219635114:android:fe406f679ea18849a615d3",
+        "android_client_info": {
+          "package_name": "com.example.healthproapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoFI26OFhzZrNWW4Pbmmc8fbggcuVfH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
